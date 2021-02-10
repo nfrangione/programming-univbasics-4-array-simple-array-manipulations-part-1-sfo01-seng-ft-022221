@@ -6,3 +6,7 @@ def using_unshift()
   
 end
 
+def using_pop()
+end
+
+def using
