@@ -9,4 +9,4 @@ end
 def using_pop()
 end
 
-def using
+def pop_with_args
